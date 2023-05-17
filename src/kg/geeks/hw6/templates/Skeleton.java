@@ -2,8 +2,8 @@ package kg.geeks.hw6.templates;
 
 public class Skeleton extends Boss {
     private int arrowQuantity;
-    public Skeleton(int health, int damage, Weapon weapon, String defenceType, int arrowQuantity) {
-        super(health, damage, weapon,defenceType);
+    public Skeleton(int health, int damage, String defenceType, int arrowQuantity) {
+        super(health, damage,defenceType);
         this.arrowQuantity = arrowQuantity;
     }
 

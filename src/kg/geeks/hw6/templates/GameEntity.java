@@ -26,8 +26,7 @@ public class GameEntity {
     public void setWeaponType(WeaponType weaponType) {
         this.weaponType = weaponType;
     }
-    public String info() {
-        return "Health: " + this.health + "Damage: " + this.damage + " Weapon Type: "
-                + this.weaponType.getCode();
+    public String printinfo() {
+        return "Health: " + this.health + "Damage: " + this.damage;
     }
 }

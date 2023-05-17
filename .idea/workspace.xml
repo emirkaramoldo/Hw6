@@ -11,6 +11,7 @@
       <change beforePath="$PROJECT_DIR$/src/kg/geeks/hw6/templates/GameEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kg/geeks/hw6/templates/GameEntity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/kg/geeks/hw6/templates/Skeleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kg/geeks/hw6/templates/Skeleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/kg/geeks/hw6/templates/Weapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kg/geeks/hw6/templates/Weapon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kg/geeks/hw6/templates/WeaponType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kg/geeks/hw6/templates/WeaponType.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684333504978</updated>
-      <workItem from="1684333506000" duration="9906000" />
+      <workItem from="1684333506000" duration="12713000" />
     </task>
     <servers />
   </component>
