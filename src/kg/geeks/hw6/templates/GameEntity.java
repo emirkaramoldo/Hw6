@@ -3,13 +3,11 @@ public class GameEntity {
     private int health;
     private int damage;;
     private WeaponType weaponType;
+    private Weapon weaponName;
     public int getHealth() {
         return health;
     }
     public int getDamage() {return damage;}
-    public WeaponType getWeaponType() {
-        return weaponType;
-    }
 
     public void setHealth(int newHealth){
         if (newHealth > 0) {
