@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8eb7aa2-fb76-4ece-877a-f1664fe25a89" name="Changes" comment="" />
+    <list default="true" id="d8eb7aa2-fb76-4ece-877a-f1664fe25a89" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kg/geeks/hw6/templates/GameEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kg/geeks/hw6/templates/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kg/geeks/hw6/templates/WeaponType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kg/geeks/hw6/general/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kg/geeks/hw6/general/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kg/geeks/hw6/templates/Boss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kg/geeks/hw6/templates/Boss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kg/geeks/hw6/templates/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kg/geeks/hw6/templates/Hero.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,7 +39,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/emirk/Downloads/lesson_6_2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -32,8 +58,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684333504978</updated>
-      <workItem from="1684333506000" duration="1000" />
+      <workItem from="1684333506000" duration="3610000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
