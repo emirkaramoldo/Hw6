@@ -1,7 +1,7 @@
 package kg.geeks.hw6.templates;
 public class Boss extends GameEntity {
     private String defenceType;
-    private Weapon weapon = new Weapon();
+    private final Weapon weapon = new Weapon();
 
     public Boss(int health, int damage, String defenceType) {
         super();
@@ -21,6 +21,6 @@ public class Boss extends GameEntity {
     }
     @Override
     public String printinfo() {
-        return super.printinfo() + " Defence Type: " + this.defenceType;
+        return super.printinfo() + " Defence Type: " + this.defenceType + this.weapon.getWeaponType();
     }
 }

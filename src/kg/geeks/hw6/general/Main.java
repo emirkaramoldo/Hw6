@@ -5,6 +5,7 @@ public class Main {
         Boss boss= new Boss(700, 50,"Magical");
         Skeleton skeleton = new Skeleton(200,15, "Physical", 10);
         Skeleton skeleton1 = new Skeleton(150,10,"Magical", 8);
+        boss.setWeaponType(WeaponType.MAGICAL);
         System.out.println(boss.printinfo());
         System.out.println(skeleton.printinfo());
         System.out.println(skeleton1.printinfo());
